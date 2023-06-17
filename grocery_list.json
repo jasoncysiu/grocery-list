@@ -1,0 +1,11 @@
+[
+        {"id" : 1,"name" : "Bagel", "price" : 7, "image" : "bagel.jpg","description":"Happy Yummy bagel - BB loves Costco"},
+        {"id" : 2,"name" : "Soy Milk", "price" : 3, "image" : "soy_milk.jpg","description":"Would you prefer your soy milk unsweetened or with a touch of vanilla flavoring?"},
+        {"id" : 3,"name" : "Oat Milk", "price" : 7, "image" : "oat_milk.jpg","description":"Oat milk, a plant-based dairy alternative, boasts a creamy mouthfeel and is often lauded for its gluten-free, lactose-free, and vegan attributes."},
+        {"id" : 4,"name" : "Kim Chi sauce", "price" : 10,"image" : "kimchi_sauce.jpg","description":""},
+        {"id" : 5,"name" : "Chicken Wings", "price" : 26,"image" : "chicken_wings.jpg","description":"Yo, these wings are straight-up clucktastic! I'm talkin' 'bout some next-level poultryliciousness with a flavor explosion that'll make your taste buds do the chicken dance. They're so finger-lickin' good, I'd cross the road twice just to get another plate"},
+        {"id" : 6,"name" : "Spinach", "price" : 16,"image" : "spinach.jpg","description":"Spinach is a nutrient-dense leafy green vegetable, renowned for its high levels of iron, folate, and phytochemicals, making it a powerhouse of nutrition."},
+	  {"id" : 7,"name" : "Matcha powder", "price" : 20000000,"image" : "Matcha_powder.jpg","description":"Introducing our revolutionary Mactcha powder, meticulously crafted to deliver an exquisite fusion of umami notes and vibrant antioxidants, ensuring a transcendent sensory experience with every sip."},
+	    {"id" : 8,"name" : "Vanilla Ice Cream", "price" : 500000,"image" : "VanillaIC.jpg","description":"I love Vanilla Ice Cream!"}
+		
+    ]
